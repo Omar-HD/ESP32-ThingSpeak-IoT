@@ -52,19 +52,13 @@ https://thingspeak.mathworks.com/channels/3551749
 Simulation URL:
 https://wokwi.com/projects/478964088021766145
 
+
 ## Screenshots
 
-### 1. Wokwi Simulation
-![Wokwi Simulation](screenshots/wokwi_simulation.png)
+The project screenshots, including the Wokwi simulation,
+ThingSpeak channel, temperature graph, and humidity graph,
+are available in the [IOT_screenshots](IOT_screenshots/) folder.
 
-### 2. ThingSpeak Public Channel
-![ThingSpeak Channel](screenshots/thingspeak_channel.png)
-
-### 3. Temperature Graph
-![Temperature Graph](screenshots/temperature_graph.png)
-
-### 4. Humidity Graph
-![Humidity Graph](screenshots/humidity_graph.png)
 
 ## Results
 The ESP32 successfully connected to Wi-Fi and sent temperature and humidity readings to ThingSpeak.
